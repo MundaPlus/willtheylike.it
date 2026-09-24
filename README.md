@@ -4,7 +4,15 @@
 
 The report appears on screen and can be exported as PDF or Markdown. The site runs at [willtheylike.it](https://willtheylike.it) and is currently in a pre-launch phase, open to invited beta readers.
 
-<!-- screenshots -->
+![Landing page](screenshots/landing.jpg)
+
+> Screenshots show a demo instance with sample data.
+
+| Sample report | Scores and their spread |
+|---|---|
+| ![Sample report with the market-fit verdict](screenshots/sample-report.jpg) | ![Purchase intent, DNF risk and recommend distributions](screenshots/report-scores.jpg) |
+| **Reader reactions** | **How the panel works** |
+| ![Individual reader reactions with scores and objections](screenshots/reader-reactions.jpg) | ![The panel page explaining where the personas come from](screenshots/panel.jpg) |
 
 ## Features
 
