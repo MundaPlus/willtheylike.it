@@ -61,7 +61,7 @@ Reports that aren't kept are scrubbed after 72 hours. Kept reports last 12 month
 
 ## Availability
 
-The source code is not public. willtheylike.it is a commercial service of Munda Plus d.o.o., live at [willtheylike.it](https://willtheylike.it). The platform is available for licensing, custom deployment or white-label adaptation. Get in touch via [munda.si](https://www.munda.si/#contact).
+The source code is not public. willtheylike.it is a commercial service of Munda Plus d.o.o. in pre-launch at [willtheylike.it](https://willtheylike.it). The platform is available for licensing, custom deployment or white-label adaptation. Get in touch via [munda.si](https://www.munda.si/#contact).
 
 ## License
 
